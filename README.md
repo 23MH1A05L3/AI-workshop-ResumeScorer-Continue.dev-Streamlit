@@ -1,8 +1,11 @@
 ## Day 5 of AI - workshop — Resume Scorer Streamlit and Continue.dev
 
 **Live URL:** [https://<your-app>.streamlit.app](https://resumescorer-q8c9sdqbvznp9pkema5ptv.streamlit.app/)
+
 **Code:** [app.py](app.py)
+
 **Acceptance log:** [acceptance_log.md](acceptance_log.md)
+
 **Tools used:** Continue.dev + Gemini 2.5 Flash + Streamlit Community Cloud
 
 ### Features
