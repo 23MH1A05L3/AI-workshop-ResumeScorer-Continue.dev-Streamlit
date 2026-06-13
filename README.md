@@ -14,3 +14,4 @@
 - **Vibe vs engineered:** This is vibe-coded. To productionise, I would add caching, error handling on Gemini failures, rate limiting per user.
 - **What Continue.dev did well:** scaffolded the Streamlit layout fast.
 - **What I had to fix:** Continue.dev forgot to add the 4 sub-score fields to the Gemini prompt itself; I had to add them.
+![Test Email Receipt](Resume-Analyzer.jpeg)
